@@ -1,21 +1,22 @@
 # Hi there 👋  
 
-### **👨💻 Full Stack Developer | Interactive Apps & Scalable Solutions**  
-Passionate about building **innovative web applications**, from dynamic UI design to robust backend architecture. I combine creativity with clean code to deliver seamless user experiences and efficient systems.  
+### 👨💻 Full Stack Developer | JavaScript/TypeScript Specialist
+Passionate about building modern web applications with clean architecture and optimal performance. I excel at creating seamless user experiences combined with robust backend solutions.
 
-**Featured Projects:**  
-- **⌨️ TypeMaster Pro**  
-  Interactive typing platform with real-time metrics tracking (accuracy, correct/incorrect words) and secure authentication.  
-  _Key tech: React, TypeScript, Node.js, PostgreSQL, Tailwind CSS._  
+## 🛠️ Core Technical Skills
 
-- **🌤️ WeatherScope**  
-  Real-time weather forecasting app with global city search and responsive design. Integrates OpenWeatherMap API and JWT auth.  
-  _Key tech: React, TypeScript, Express, REST API, PostgreSQL._  
+**Frontend Expertise:**
+- React.js (Hooks, Context API, Performance Optimization)
+- TypeScript | JavaScript (ES6+)
+- Vite (Build Tool & Development Environment)
+- Tailwind CSS (Utility-first Styling)
+- Responsive Web Design
 
-**Core Skills:**  
-- **Frontend:** Reactive interfaces with UX/UI focus (React, TypeScript, Tailwind).  
-- **Backend:** RESTful APIs, JWT authentication, SQL databases.  
-- **DevOps:** Local environment setup with automated migrations.  
+**Backend Mastery:**
+- Node.js (Express, REST API Design)
+- TypeScript (Strong Typing for Backend)
+- Sequelize (ORM for SQL Databases)
+- PostgreSQL (Database Design & Optimization)
 
 **Let’s connect!**  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-pi-kohl-74.vercel.app/)  
