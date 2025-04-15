@@ -18,5 +18,3 @@ Passionate about building modern web applications with clean architecture and op
 - Sequelize (ORM for SQL Databases)
 - PostgreSQL (Database Design & Optimization)
 
-**Let’s connect!**  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-pi-kohl-74.vercel.app/)  
