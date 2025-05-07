@@ -21,6 +21,7 @@
  - <img src="https://skillicons.dev/icons?i=vite" width="32" alt="Vite" /> Vite (Build Tool & Development Environment)
  - <img src="https://skillicons.dev/icons?i=tailwind" width="32" alt="Tailwind" /> Tailwind CSS (Utility-first Styling)
  - <img src="https://skillicons.dev/icons?i=css" width="32" alt="CSS" /> Responsive Web Design
+ - <img src="https://skillicons.dev/icons?i=html" width="32" alt="CSS" /> HTML
 
 ### **Backend Mastery**
  - <img src="https://skillicons.dev/icons?i=nodejs" width="32" alt="Node" /> Node.js (Express, REST API Design)
