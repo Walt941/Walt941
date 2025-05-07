@@ -29,5 +29,5 @@
 - <img src="https://skillicons.dev/icons?i=sequelize" width="24" alt="Sequelize" /> **Sequelize** (ORM for SQL Databases)
 - <img src="https://skillicons.dev/icons?i=postgres" width="24" alt="PostgreSQL" /> **PostgreSQL** (Relational Database Management)
 - <img src="https://skillicons.dev/icons?i=cs" width="24" alt="C#" /> **C#** (.NET Ecosystem, Enterprise Applications)
-- <img src="https://skillicons.dev/icons?i=cp" width="24" alt="C++" /> **C++** (High-Performance Systems Programming)
+- <img src="https://skillicons.dev/icons?i=cpp" width="24" alt="C++" /> **C++** (High-Performance Systems Programming)
 ---
